@@ -18,7 +18,7 @@
            `;
       } else {
         alert(
-          "No response from OpenAI. Ensure you have a key in `background.js`! Feel free to msg @aleemrehmtulla on Twitter for any help :)"
+          "No response from OpenAI."
         );
       }
     }
