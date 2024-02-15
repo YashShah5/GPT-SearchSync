@@ -3,7 +3,7 @@
 This Chrome Extension uses the CHAT-GPT API to create a GPT-based text box to search alongside you.  
 ## Screenshots
 
-![App Screenshot]("https://giphy.com/embed/9csddSTKiYXfsrAn8i")
+![image](https://github.com/YashShah5/GPT-SearchSync/assets/109703679/85893aa8-39b0-4e37-8f9d-6a212c23cdbd)
 
 
 ## 🛠 Skills
